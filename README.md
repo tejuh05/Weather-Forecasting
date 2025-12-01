@@ -21,3 +21,6 @@
  * User-friendly GUI suitable for beginners and students.
 
 # OUTPUT : 
+ <img width="1908" height="878" alt="Image" src="https://github.com/user-attachments/assets/0da28b20-a995-4164-816a-039350891ec0" />
+ <img width="1905" height="995" alt="Image" src="https://github.com/user-attachments/assets/ce9ac6b2-2e2a-41c1-870b-4bae773da0b1" />
+ <img width="1915" height="1018" alt="Image" src="https://github.com/user-attachments/assets/dca977cd-1954-406b-8c5f-ed2b00cfa0aa" />
